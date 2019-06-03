@@ -1,0 +1,15 @@
+{
+  "name": "puppeteer_training",
+  "version": "1.0.0",
+  "description": "puppeteer training",
+  "main": "index.js",
+  "scripts": {
+    "test": "test/testCase1"
+  },
+  "author": "Himanshi Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "puppeteer": "^1.17.0"
+  }
+}
